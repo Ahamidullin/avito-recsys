@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+.vscode/
+
+data/raw/
+data/processed/
+data/models/user-bge-m3-ft1/
+logs/*.err
+logs/*.out
+
+answer.csv
+*.zip
